@@ -1,5 +1,4 @@
 console.log("spotify");
-
 let songIndex = 0;
 let audioelement = new Audio('1.mp3');
 let masterplay = document.getElementById('masterplay');
